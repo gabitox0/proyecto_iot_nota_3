@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283309533860",
+    "project_id": "noticiasev3",
+    "storage_bucket": "noticiasev3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283309533860:android:3d0266c77bb56123df9431",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_iot_nota_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283309533860-0bkl96sfsiieim5thvpvf71kemk9crc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_iot_nota_3",
+            "certificate_hash": "e3219a9a65b2d6073ed0fe99a23ec53b19d3c000"
+          }
+        },
+        {
+          "client_id": "283309533860-gf462mpivtk5i0jv78uuof1mb424kl7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqi6PzmjTh7rPtW-4S_mxd1AafR1skXm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283309533860-gf462mpivtk5i0jv78uuof1mb424kl7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
